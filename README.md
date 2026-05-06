@@ -8,6 +8,8 @@ https://agrigo-frontend.netlify.app/
 
 ## Preview 
 
+./agrigo-frontend.netlify.app.png
+
 ## Problem Statement
 
 Agriculture remains one of the most critical sectors, yet a large number of farmers still face challenges due to limited access to timely information, fragmented services, and lack of digital integration.
