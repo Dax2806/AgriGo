@@ -8,7 +8,7 @@ https://agrigo-frontend.netlify.app/
 
 ## Preview 
 
-./agrigo-frontend.netlify.app.png
+![Image](./agrigo-frontend.netlify.app.png)
 
 ## Problem Statement
 
